@@ -1,0 +1,31 @@
+body {
+    font-family: helvetica;
+}
+.header {
+    background-image: url("images/pattern.webp");
+    text-align: center;
+    color: khaki;
+    font-size: 100px;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.one {
+     background-color: mediumspringgreen;
+ }
+.two {
+    background-color: lightcoral;
+}
+.three {
+    background-color: skyblue;
+}
+.price {
+    color: blue;
+    font-weight: bold;
+}
+h3 {
+    font-size: 22px;
+    font-weight: bold;
+}
